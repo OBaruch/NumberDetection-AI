@@ -1,0 +1,10 @@
+# MATLAB autosave and backup files
+*.asv
+*.m~
+
+# Local dataset used by the training script (not versioned; see docs/code-overview.md)
+entrenamientoTodo.txt
+
+# OS files
+.DS_Store
+Thumbs.db
